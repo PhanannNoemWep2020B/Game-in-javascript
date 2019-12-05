@@ -1,0 +1,22 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+button {
+    padding: 10px;
+    width: 100px;
+    border:none;
+    cursor: pointer;
+    background: teal;
+    color:#fff;
+    margin-bottom: 50px;
+}
+#result {
+    color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    font-family: Battambang;
+    font-size: 20px;
+    transition: 5s;
+}
